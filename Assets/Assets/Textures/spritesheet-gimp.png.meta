@@ -72,5 +72,23 @@ TextureImporter:
         height: 22
       alignment: 0
       pivot: {x: .5, y: .5}
+    - name: spritesheet-gimp_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 530
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spritesheet-gimp_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 507
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
   spritePackingTag: 
   userData: 
